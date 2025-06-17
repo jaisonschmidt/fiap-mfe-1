@@ -10,7 +10,7 @@ function App() {
 
   return (
     <>
-      <h1>MFE 1 - alterado</h1>
+      <h1>MFE 1</h1>
       <div className="card">
         <button className='btn btn-warning' onClick={handleCount}>
           count is {count}
